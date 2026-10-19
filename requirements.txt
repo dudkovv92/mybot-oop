@@ -1,0 +1,4 @@
+requests
+pyTelegramBotAPI
+pytest
+python-dotenv
